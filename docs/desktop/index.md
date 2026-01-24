@@ -3,8 +3,8 @@
 ## Browser
 ### Firefox
 - Website: <https://www.mozilla.org/firefox>
-- Source Code: <https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives>
-- Download: <https://www.mozilla.org/firefox/new/>
+- Source Code: <https://github.com/mozilla-firefox/firefox>
+- Download: <https://www.firefox.com/download/all/>
 
 ### Helium
 - Website: <https://helium.computer/>
