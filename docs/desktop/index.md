@@ -94,6 +94,13 @@
 - Source Code: <https://github.com/olive-editor/olive>
 - Download: <https://olivevideoeditor.org/download.php>
 
+
+## RGB lighting control
+### OpenRGB
+- Website: <https://openrgb.org/>
+- Source Code: <https://gitlab.com/CalcProgrammer1/OpenRGB>
+- Download: <https://openrgb.org/releases.html>
+
 ## Audio Recorder and Editor
 ### Audacity
 - Website: <https://www.audacityteam.org/>
